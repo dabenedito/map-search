@@ -9,5 +9,14 @@ npm-debug.*
 *.orig.*
 web-build/
 
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+.expo
+.expo-shared
+
 # macOS
 .DS_Store
